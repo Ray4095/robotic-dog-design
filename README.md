@@ -20,6 +20,8 @@ The project focuses on the initial mechanical design of a simple robotic dog, in
 - Tinkercad
 - PDF Report
 
+## Report File
+
 The full project report is available in this repository:
 
-`Preliminary_Design_of_a_Robotic_Dog_Rayan_Alzaedi.pdf`
+[ Preliminary Design of a Robotic Dog (PDF)](Preliminary_Design_of_a_Robotic_Dog_Rayan_Alzaedi.pdf)
